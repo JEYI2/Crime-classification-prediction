@@ -4,7 +4,7 @@
 ### 1.타켓변수의 불균형 확인
 ![Image](https://github.com/user-attachments/assets/409561ed-e121-4862-9691-fffff3630eb4)
 
-- 타켓변수의 불균형을 확인했다. 강도의 빈도가 가장 많았다.
+- 타켓변수의 불균형을 확인한 결과 강도의 빈도가 가장 많았다.
 
 ### 2. 요일별 타겟분포 확인   
 ![Image](https://github.com/user-attachments/assets/39a8425c-b722-43e7-b1a3-ae3fa6fd46ce)
