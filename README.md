@@ -34,7 +34,7 @@
 ![Image](https://github.com/user-attachments/assets/16933781-e077-4a1f-ba65-efcba25a963f)
 ![Image](https://github.com/user-attachments/assets/154a83e6-7d70-4f38-a43a-7903c6945a0e)
 
-=> 주성분분석 수행
+=> 서로 비슷한 변수들 간의 다중공선성이 생기는 문제 해결을 위해 주성분분석을 수행했다.
 
 ![Image](https://github.com/user-attachments/assets/2e5c2738-f542-4ddc-bb13-8061e3f8d90c)
 - 고윳값, 누적 기여율, scree plot을 고려해 주성분의 개수를 5개로 선정 
