@@ -1,6 +1,6 @@
 # 범죄 유형 분류 해커톤
 
-## EDA
+## 📊EDA
 ### 1.타켓변수의 불균형 확인
 ![Image](https://github.com/user-attachments/assets/409561ed-e121-4862-9691-fffff3630eb4)
 
@@ -29,7 +29,7 @@
 - 차도에서 상해가 가장 많이 일어난다.
 - 학교, 병원, 공원, 식당, 주유소, 호텔/모텔 등은 특이사항 없음
 
-### 날씨에 따른 분포
+### 6. 날씨에 따른 분포
 
 ![Image](https://github.com/user-attachments/assets/16933781-e077-4a1f-ba65-efcba25a963f)
 ![Image](https://github.com/user-attachments/assets/154a83e6-7d70-4f38-a43a-7903c6945a0e)
